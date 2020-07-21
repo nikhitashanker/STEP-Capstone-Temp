@@ -1,0 +1,27 @@
+{
+  "name": "capstone-project-177",
+  "version": "1.0.0",
+  "description": "Temporary repo for Project 177",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhitashanker/STEP-Capstone-Temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhitashanker/STEP-Capstone-Temp/issues"
+  },
+  "homepage": "https://github.com/nikhitashanker/STEP-Capstone-Temp#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-google": "^0.14.0",
+    "htmllint-cli": "0.0.7",
+    "markdownlint": "^0.20.4",
+    "stylelint": "^13.6.1",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
